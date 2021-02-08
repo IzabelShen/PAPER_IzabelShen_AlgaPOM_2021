@@ -48,4 +48,4 @@ The R scripts in the base folder should be run interactively (for instance with 
 
 The folder 'InputFiles' contains all data files required to run the analyses. In the repository, the input files are compressed with gzip. Before you proceed with the analyses, the files should be uncompressed.
 
-The folder 'R_analysis' contains all scripts written for the analyses. 
+The folder 'R_scripts' contains all scripts and computing notes written for the analyses. 
