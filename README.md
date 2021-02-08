@@ -1,6 +1,6 @@
-# PAPER_IzabelShen_AlgaPOM_2021
+# PAPER_IzabelShen_AlgalPOM_2021
 
-# the effects of phytoplankton deposition on water-sediment interface bacterial communities
+# The effects of phytoplankton deposition on water-sediment interface bacterial communities
 
 A repository for R code,  scripts from the manuscript "Quality of phytoplankton deposition structures bacterial communities at the water-sediment interface"
 
