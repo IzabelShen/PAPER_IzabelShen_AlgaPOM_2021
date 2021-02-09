@@ -1,0 +1,101 @@
+,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,Phylum,Class,Order,Family,Genus
+16S_364,52.26435969,-7.590438188,1.352505519,-5.612131025,2.00E-08,1.48E-05,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,NA
+16S_329,58.22379771,-7.51809356,1.351654779,-5.562140329,2.66E-08,1.48E-05,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_374,47.95363559,-7.236416214,1.352536199,-5.35025696,8.78E-08,2.44E-05,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_390,47.73124645,-7.230558064,1.332318827,-5.427047879,5.73E-08,2.12E-05,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_274,72.63767311,-7.020680945,1.39771434,-5.02297268,5.09E-07,0.000113152,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_354,54.96419171,-6.614486294,1.419816501,-4.658690956,3.18E-06,0.000505526,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_1272,7.879658696,-6.384463524,1.591619906,-4.011299118,6.04E-05,0.00746097,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+16S_1312,7.792529691,-6.36820897,1.837979874,-3.464787107,0.000530651,0.015948225,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+16S_359,54.91798541,-6.284035843,1.441506932,-4.359351804,1.30E-05,0.001813231,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_1269,6.667607819,-6.14366968,2.373870844,-2.588038728,0.009652413,0.121971398,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,NA
+16S_1770,5.794858086,-5.941919749,2.361976556,-2.515655684,0.011881119,0.139071626,Bacteroidetes,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium
+16S_282,71.96838275,-5.877698802,1.514064183,-3.882067133,0.000103572,0.009597697,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,NA
+16S_1331,5.468452578,-5.857764573,2.381149269,-2.460057692,0.013891468,0.160909508,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,NA
+16S_1223,5.256524346,-5.800742078,2.078300333,-2.791099046,0.00525294,0.082271391,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+16S_2053,5.237879103,-5.796103708,2.359882921,-2.456097994,0.014045485,0.161016283,Actinobacteria,Actinobacteria,Frankiales,Sporichthyaceae,hgcI clade
+16S_1622,4.622076742,-5.614992606,2.080732734,-2.698565037,0.006963913,0.098778176,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+16S_1865,4.559899641,-5.595615744,2.075515905,-2.69601198,0.007017514,0.098778176,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+16S_21,834.4558634,-1.7936473,0.575248411,-3.118039557,0.001820584,0.038136798,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_19,1142.325356,-1.768494235,0.568699884,-3.109714427,0.001872683,0.038136798,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,NA
+16S_26,765.590208,-1.765191768,0.568027873,-3.10757949,0.001886263,0.038136798,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_18,1137.20444,-1.752180481,0.5768995,-3.037236956,0.002387577,0.044249758,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_24,793.1235049,-1.746708101,0.574394907,-3.040953324,0.002358304,0.044249758,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_23,823.7665956,-1.699381221,0.557820956,-3.046463568,0.002315505,0.044249758,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_20,1153.9985,-1.692960662,0.557358455,-3.037471929,0.002385716,0.044249758,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,NA
+16S_17,1214.154134,-1.674775104,0.574550609,-2.914930518,0.003557677,0.061814645,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_22,895.5457781,-1.651715471,0.579177569,-2.851829144,0.004346846,0.071083714,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_25,820.0635458,-1.639573411,0.567916384,-2.886997907,0.003889368,0.064551902,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_27,769.0252346,-1.613894673,0.553136893,-2.917712945,0.003526088,0.061814645,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Marine Methylotrophic Group 3
+16S_59,378.9315301,2.083949423,0.661647403,3.149637425,0.001634732,0.035643569,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,Neptunomonas
+16S_60,370.6219226,2.129595423,0.648189639,3.285451193,0.001018192,0.024089985,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_37,507.7044705,2.145513235,0.649724398,3.30218973,0.000959332,0.023190798,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_38,506.3079277,2.154658654,0.631119942,3.414024037,0.000640109,0.018251321,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_68,355.0894299,2.157542589,0.678814018,3.178400168,0.001480902,0.032935262,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_69,346.1022352,2.16328363,0.663617528,3.259834976,0.001114771,0.025825518,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_53,406.7971395,2.22559822,0.626391488,3.55304672,0.000380797,0.014114869,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_51,410.1661066,2.257747495,0.634181145,3.560098739,0.000370715,0.014114869,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_48,428.3269198,2.25796771,0.628607761,3.592013731,0.000328133,0.014114869,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_34,593.1482356,2.269163075,0.654760077,3.465640551,0.00052897,0.015948225,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_63,373.697639,2.276223649,0.629343858,3.616820309,0.000298244,0.013818648,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_35,562.5872797,2.283371045,0.639964985,3.567962463,0.000359768,0.014114869,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Nitrincolaceae,NA
+16S_449,57.13813273,2.485755009,1.020310976,2.436271949,0.014839523,0.166682323,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_304,94.72380805,2.618864242,0.925398879,2.829984238,0.00465503,0.075020189,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_206,142.1274361,2.666191778,0.760966765,3.503690176,0.000458859,0.015462154,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_231,129.7113215,2.672574249,0.869957634,3.072074025,0.00212577,0.042211719,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_416,65.7206212,2.690079361,1.032663963,2.604990061,0.009187693,0.117433495,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_421,62.04780747,2.715722075,1.026579225,2.645409149,0.008159219,0.109313879,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_341,87.49902722,2.738938137,1.025615868,2.670530189,0.007573156,0.102699385,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_302,99.35490506,2.744879695,0.925082772,2.967171997,0.003005528,0.054789293,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_327,92.39222791,2.756868037,1.027584089,2.682863686,0.007299474,0.100210058,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_276,113.9691543,2.806168536,1.029969162,2.724517043,0.006439561,0.09547722,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_334,93.78478941,2.807272415,1.035267381,2.711639975,0.006695127,0.097960274,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_298,103.9058036,2.809709909,1.03866028,2.705128869,0.00682779,0.098603922,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_204,150.4887976,2.837932185,0.719821388,3.942550517,8.06E-05,0.008964906,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_460,51.65818937,2.860244008,1.10916988,2.578724917,0.009916572,0.123901439,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_406,68.75999134,2.860254554,1.017528313,2.810982769,0.004939043,0.078460227,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_465,49.64322558,2.895447304,1.107243036,2.615006109,0.008922586,0.115371112,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_311,102.9124714,2.900553334,1.050648214,2.76072742,0.005767279,0.089072418,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_229,138.1436013,2.917569283,0.860798963,3.389373604,0.000700525,0.018874039,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_389,73.49630787,2.935796114,1.015233876,2.891743649,0.003831104,0.064551902,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_520,42.87921531,3.051222541,1.197308181,2.548401981,0.010821769,0.132239643,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_995,15.23412524,3.32386082,1.237140217,2.686729261,0.007215541,0.100210058,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_666,23.35403202,3.446323516,1.257691028,2.740198856,0.006140202,0.092268984,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_950,15.05335609,3.674607874,1.336958282,2.748483571,0.005987164,0.091201724,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_125,307.2276706,3.989827077,1.230221925,3.243176694,0.001182049,0.026825271,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_162,229.1809911,4.02457851,1.201919496,3.348459297,0.000812622,0.020537178,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_167,232.7339262,4.050681485,1.080088945,3.75032214,0.000176608,0.011197646,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_147,260.1780171,4.103504618,1.207846328,3.397373094,0.000680361,0.018874039,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_156,248.5414337,4.115480402,1.215949543,3.384581561,0.000712868,0.018874039,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_117,326.0197975,4.117778926,1.228745233,3.35120643,0.000804603,0.020537178,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_112,330.0724279,4.192169125,1.220651043,3.434371477,0.00059393,0.017380257,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_152,247.5685446,4.199085679,1.075043491,3.905968188,9.38E-05,0.009487266,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_172,222.1694241,4.203571087,1.191235698,3.528748419,0.00041753,0.0149772,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_178,208.5283854,4.207180026,1.200408752,3.504789532,0.000456968,0.015462154,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_836,19.05177799,4.207934379,1.177615839,3.57326578,0.000352557,0.014114869,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_179,203.8992393,4.22395938,1.188690991,3.553454525,0.000380207,0.014114869,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_107,363.6111683,4.279034828,1.228953915,3.481851334,0.00049796,0.015820903,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_2099,4.646268328,5.908850329,2.420234557,2.441437054,0.014628938,0.165993668,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,NA
+16S_2029,4.643348679,5.924048072,2.447551115,2.420398102,0.015503524,0.172399184,Bacteroidetes,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium
+16S_2409,5.135180385,6.071599264,2.397940935,2.532005345,0.011341226,0.13560692,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Hyphomonas
+16S_2687,5.250250444,6.105478213,2.386633385,2.558196936,0.010521649,0.130000815,Patescibacteria,Microgenomatia,Candidatus Pacebacteria,NA,NA
+16S_2242,5.267344869,6.109057265,2.113686315,2.890238359,0.003849498,0.064551902,Bacteroidetes,Bacteroidia,Flavobacteriales,Crocinitomicaceae,NA
+16S_1588,5.330692138,6.125554931,2.413363192,2.538181965,0.011143003,0.134684993,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter
+16S_1824,5.440545251,6.13532229,2.427177405,2.527760137,0.011479275,0.135797378,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,NA
+16S_1360,6.416371177,6.37946329,2.426237975,2.629364208,0.008554469,0.111912581,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,NA
+16S_1933,6.45228418,6.388856408,2.421766687,2.638097403,0.008337263,0.110369483,Actinobacteria,Acidimicrobiia,Microtrichales,Ilumatobacteraceae,CL500-29 marine group
+16S_2110,8.744961461,6.824981844,2.176253841,3.136114784,0.001712022,0.036610928,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Hyphomonas
+16S_1523,10.15047085,7.057993611,1.43531376,4.917387268,8.77E-07,0.00016255,Bacteroidetes,Bacteroidia,Flavobacteriales,Crocinitomicaceae,NA
+16S_1654,10.27686266,7.072220541,2.128674782,3.322358399,0.0008926,0.022057129,Patescibacteria,Parcubacteria,Candidatus Kaiserbacteria,NA,NA
+16S_1900,11.71936131,7.250427597,2.465189586,2.941123733,0.003270239,0.058653315,Actinobacteria,Actinobacteria,Corynebacteriales,NA,NA
+16S_1280,18.0510376,7.882654966,2.258560963,3.490122736,0.000482799,0.015790359,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_1138,21.86897322,8.159244185,2.239498414,3.64333555,0.000269128,0.013258904,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_1169,22.64291353,8.209299998,2.256237375,3.638491272,0.00027424,0.013258904,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_1101,22.93873284,8.228120294,2.256464094,3.646466308,0.000265871,0.013258904,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_1181,24.89744477,8.346252041,2.248596455,3.711760739,0.000205822,0.011443731,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_1100,25.32402597,8.370752619,2.248145961,3.723402646,0.000196556,0.011443731,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_1037,26.35171527,8.428083343,2.251209987,3.743801508,0.000181257,0.011197646,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_945,29.40481161,8.58618124,2.279298059,3.767028716,0.000165202,0.011197646,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_879,30.63147218,8.645118578,2.271518953,3.805875609,0.000141303,0.010475291,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_897,32.23928685,8.718910638,2.268630191,3.843248967,0.000121416,0.010385754,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA
+16S_857,32.47788147,8.729534686,2.289173871,3.813399583,0.000137068,0.010475291,Patescibacteria,Gracilibacteria,JGI 0000069-P22,NA,NA

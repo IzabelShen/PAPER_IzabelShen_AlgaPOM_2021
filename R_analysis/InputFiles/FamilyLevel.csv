@@ -1,0 +1,581 @@
+Family,Relative,Microcosms,Sample
+Mycobacteriaceae,0.327581976,Control,S37
+Sporichthyaceae,1.027828462,Control,S37
+Caulobacteraceae,0.152053523,Control,S37
+Rhodobacteraceae,4.423957233,Control,S37
+SAR11_Clade III,0.710383388,Control,S37
+Bacteriovoracaceae,1.190018887,Control,S37
+Moraxellaceae,0.6500955,Control,S37
+Methylophagaceae,12.54975085,Control,S37
+Pseudomonadaceae,1.178014661,Control,S37
+Nitrincolaceae,1.160408464,Control,S37
+Porticoccaceae,0.147785354,Control,S37
+Saccharospirillaceae,0.45215916,Control,S37
+Colwelliaceae,1.681125089,Control,S37
+Burkholderiaceae,7.07902515,Control,S37
+Arcobacteraceae,53.34117609,Control,S37
+Crocinitomicaceae,0.076827043,Control,S37
+NS11-12 marine group,0,Control,S37
+Flavobacteriaceae,2.167696362,Control,S37
+JGI 0000069-P22 order,9.636992221,Control,S37
+Other,2.047120587,Control,S37
+Mycobacteriaceae,0.335584793,Control,S38
+Sporichthyaceae,0.375332117,Control,S38
+Caulobacteraceae,0.149385917,Control,S38
+Rhodobacteraceae,5.720146825,Control,S38
+SAR11_Clade III,0.281165637,Control,S38
+Bacteriovoracaceae,3.374521165,Control,S38
+Moraxellaceae,0.059487606,Control,S38
+Methylophagaceae,11.68864774,Control,S38
+Pseudomonadaceae,0.633022824,Control,S38
+Nitrincolaceae,2.440859182,Control,S38
+Porticoccaceae,0,Control,S38
+Saccharospirillaceae,0.9606048,Control,S38
+Colwelliaceae,0.680772965,Control,S38
+Burkholderiaceae,9.283534471,Control,S38
+Arcobacteraceae,53.76959356,Control,S38
+Crocinitomicaceae,0.099768452,Control,S38
+NS11-12 marine group,0.038146761,Control,S38
+Flavobacteriaceae,1.328467621,Control,S38
+JGI 0000069-P22 order,6.576981764,Control,S38
+Other,2.203975797,Control,S38
+Mycobacteriaceae,0.163524227,Control,S39
+Sporichthyaceae,0.158455776,Control,S39
+Caulobacteraceae,0.124310424,Control,S39
+Rhodobacteraceae,2.754302848,Control,S39
+SAR11_Clade III,0.073359156,Control,S39
+Bacteriovoracaceae,0.87150677,Control,S39
+Moraxellaceae,0.047750141,Control,S39
+Methylophagaceae,2.883948483,Control,S39
+Pseudomonadaceae,0.283833243,Control,S39
+Nitrincolaceae,3.658087647,Control,S39
+Porticoccaceae,0.205939157,Control,S39
+Saccharospirillaceae,0.467097752,Control,S39
+Colwelliaceae,1.087049308,Control,S39
+Burkholderiaceae,3.125366796,Control,S39
+Arcobacteraceae,75.22301183,Control,S39
+Crocinitomicaceae,0.043481972,Control,S39
+NS11-12 marine group,0.64049212,Control,S39
+Flavobacteriaceae,2.532624817,Control,S39
+JGI 0000069-P22 order,4.352198641,Control,S39
+Other,1.303658887,Control,S39
+Mycobacteriaceae,0.172594086,Control,S40
+Sporichthyaceae,0.128578593,Control,S40
+Caulobacteraceae,0.040280846,Control,S40
+Rhodobacteraceae,8.327464601,Control,S40
+SAR11_Clade III,0.116574368,Control,S40
+Bacteriovoracaceae,0.41934761,Control,S40
+Moraxellaceae,0.510312963,Control,S40
+Methylophagaceae,14.66062721,Control,S40
+Pseudomonadaceae,0.773872403,Control,S40
+Nitrincolaceae,2.95330623,Control,S40
+Porticoccaceae,0.055752958,Control,S40
+Saccharospirillaceae,0.778140572,Control,S40
+Colwelliaceae,0.739727051,Control,S40
+Burkholderiaceae,10.99400322,Control,S40
+Arcobacteraceae,50.40014085,Control,S40
+Crocinitomicaceae,0.088564508,Control,S40
+NS11-12 marine group,0.189400002,Control,S40
+Flavobacteriaceae,4.659240052,Control,S40
+JGI 0000069-P22 order,3.116030176,Control,S40
+Other,0.876041698,Control,S40
+Mycobacteriaceae,0.129645635,Control,S41
+Sporichthyaceae,0.039480564,Control,S41
+Caulobacteraceae,0.1224431,Control,S41
+Rhodobacteraceae,5.130872734,Control,S41
+SAR11_Clade III,0.028543381,Control,S41
+Bacteriovoracaceae,0.843763671,Control,S41
+Moraxellaceae,0,Control,S41
+Methylophagaceae,5.04897724,Control,S41
+Pseudomonadaceae,0.345188173,Control,S41
+Nitrincolaceae,0.554328457,Control,S41
+Porticoccaceae,0.006669014,Control,S41
+Saccharospirillaceae,0.234215777,Control,S41
+Colwelliaceae,0.836027615,Control,S41
+Burkholderiaceae,8.017488823,Control,S41
+Arcobacteraceae,73.91775238,Control,S41
+Crocinitomicaceae,0.159789579,Control,S41
+NS11-12 marine group,0.091498874,Control,S41
+Flavobacteriaceae,1.067842547,Control,S41
+JGI 0000069-P22 order,1.857720584,Control,S41
+Other,1.567751853,Control,S41
+Mycobacteriaceae,0.04721662,100D,S42
+Sporichthyaceae,0.610081415,100D,S42
+Caulobacteraceae,0.262492397,100D,S42
+Rhodobacteraceae,3.558852716,100D,S42
+SAR11_Clade III,0.431085075,100D,S42
+Bacteriovoracaceae,4.527460333,100D,S42
+Moraxellaceae,1.271380859,100D,S42
+Methylophagaceae,24.96372056,100D,S42
+Pseudomonadaceae,0.326248173,100D,S42
+Nitrincolaceae,3.820011311,100D,S42
+Porticoccaceae,0,100D,S42
+Saccharospirillaceae,0.252889017,100D,S42
+Colwelliaceae,0.344387891,100D,S42
+Burkholderiaceae,14.27115678,100D,S42
+Arcobacteraceae,24.53530309,100D,S42
+Crocinitomicaceae,0.118174931,100D,S42
+NS11-12 marine group,0.343320849,100D,S42
+Flavobacteriaceae,8.224495022,100D,S42
+JGI 0000069-P22 order,10.07661363,100D,S42
+Other,2.015109314,100D,S42
+Mycobacteriaceae,0.026409296,100D,S43
+Sporichthyaceae,0.079227888,100D,S43
+Caulobacteraceae,0.028810141,100D,S43
+Rhodobacteraceae,1.543209877,100D,S43
+SAR11_Clade III,0.11310648,100D,S43
+Bacteriovoracaceae,0.383868455,100D,S43
+Moraxellaceae,0.332383666,100D,S43
+Methylophagaceae,17.6446109,100D,S43
+Pseudomonadaceae,0.27769775,100D,S43
+Nitrincolaceae,1.082247618,100D,S43
+Porticoccaceae,0.053618874,100D,S43
+Saccharospirillaceae,0.1413831,100D,S43
+Colwelliaceae,0.9984848,100D,S43
+Burkholderiaceae,6.036258096,100D,S43
+Arcobacteraceae,61.35786464,100D,S43
+Crocinitomicaceae,0.025875775,100D,S43
+NS11-12 marine group,0.014405071,100D,S43
+Flavobacteriaceae,6.742640076,100D,S43
+JGI 0000069-P22 order,2.104474108,100D,S43
+Other,1.013423389,100D,S43
+Mycobacteriaceae,0.118975213,100D,S44
+Sporichthyaceae,0.469498597,100D,S44
+Caulobacteraceae,0.079494649,100D,S44
+Rhodobacteraceae,4.019281454,100D,S44
+SAR11_Clade III,0.328115497,100D,S44
+Bacteriovoracaceae,2.884215244,100D,S44
+Moraxellaceae,0.283833243,100D,S44
+Methylophagaceae,11.5942145,100D,S44
+Pseudomonadaceae,0.644493528,100D,S44
+Nitrincolaceae,2.37363552,100D,S44
+Porticoccaceae,0,100D,S44
+Saccharospirillaceae,3.838951311,100D,S44
+Colwelliaceae,0.171260284,100D,S44
+Burkholderiaceae,7.251352476,100D,S44
+Arcobacteraceae,40.76181483,100D,S44
+Crocinitomicaceae,0.028543381,100D,S44
+NS11-12 marine group,0.024275212,100D,S44
+Flavobacteriaceae,0.364128173,100D,S44
+JGI 0000069-P22 order,22.16273462,100D,S44
+Other,2.601182283,100D,S44
+Mycobacteriaceae,0.034412113,100D,S45
+Sporichthyaceae,0.093366198,100D,S45
+Caulobacteraceae,0.019473521,100D,S45
+Rhodobacteraceae,3.995006242,100D,S45
+SAR11_Clade III,0.10376986,100D,S45
+Bacteriovoracaceae,0.40040761,100D,S45
+Moraxellaceae,0.012270986,100D,S45
+Methylophagaceae,5.408837244,100D,S45
+Pseudomonadaceae,0.512713809,100D,S45
+Nitrincolaceae,1.971894107,100D,S45
+Porticoccaceae,0.24035127,100D,S45
+Saccharospirillaceae,0.484170428,100D,S45
+Colwelliaceae,0.106970987,100D,S45
+Burkholderiaceae,3.379589616,100D,S45
+Arcobacteraceae,76.74781523,100D,S45
+Crocinitomicaceae,0.004268169,100D,S45
+NS11-12 marine group,0.741327614,100D,S45
+Flavobacteriaceae,2.019644248,100D,S45
+JGI 0000069-P22 order,3.35344708,100D,S45
+Other,0.370263664,100D,S45
+Mycobacteriaceae,0.07549324,80D_20C,S46
+Sporichthyaceae,0.142450142,80D_20C,S46
+Caulobacteraceae,0.053085353,80D_20C,S46
+Rhodobacteraceae,3.546848491,80D_20C,S46
+SAR11_Clade III,0.358792962,80D_20C,S46
+Bacteriovoracaceae,0.661299444,80D_20C,S46
+Moraxellaceae,0.016272395,80D_20C,S46
+Methylophagaceae,9.11360799,80D_20C,S46
+Pseudomonadaceae,0.119508734,80D_20C,S46
+Nitrincolaceae,0.559663668,80D_20C,S46
+Porticoccaceae,0.040014085,80D_20C,S46
+Saccharospirillaceae,0.210740847,80D_20C,S46
+Colwelliaceae,1.00301973,80D_20C,S46
+Burkholderiaceae,5.998111335,80D_20C,S46
+Arcobacteraceae,71.97493518,80D_20C,S46
+Crocinitomicaceae,0.087230705,80D_20C,S46
+NS11-12 marine group,0.006935775,80D_20C,S46
+Flavobacteriaceae,0.824556911,80D_20C,S46
+JGI 0000069-P22 order,4.31431864,80D_20C,S46
+Other,0.893114379,80D_20C,S46
+Mycobacteriaceae,0.112306198,80D_20C,S47
+Sporichthyaceae,0.411878315,80D_20C,S47
+Caulobacteraceae,0.119775494,80D_20C,S47
+Rhodobacteraceae,1.109990717,80D_20C,S47
+SAR11_Clade III,0.451358878,80D_20C,S47
+Bacteriovoracaceae,6.869351345,80D_20C,S47
+Moraxellaceae,0.034145352,80D_20C,S47
+Methylophagaceae,10.06354237,80D_20C,S47
+Pseudomonadaceae,0.577269866,80D_20C,S47
+Nitrincolaceae,1.464515509,80D_20C,S47
+Porticoccaceae,0.009870141,80D_20C,S47
+Saccharospirillaceae,1.194553816,80D_20C,S47
+Colwelliaceae,0.354791553,80D_20C,S47
+Burkholderiaceae,3.591664266,80D_20C,S47
+Arcobacteraceae,63.36977283,80D_20C,S47
+Crocinitomicaceae,0.123776903,80D_20C,S47
+NS11-12 marine group,0.002667606,80D_20C,S47
+Flavobacteriaceae,1.260443676,80D_20C,S47
+JGI 0000069-P22 order,7.666431917,80D_20C,S47
+Other,1.21189325,80D_20C,S47
+Mycobacteriaceae,0.122976621,80D_20C,S48
+Sporichthyaceae,0.15071972,80D_20C,S48
+Caulobacteraceae,0.034678874,80D_20C,S48
+Rhodobacteraceae,8.941013904,80D_20C,S48
+SAR11_Clade III,0.086430424,80D_20C,S48
+Bacteriovoracaceae,3.514570462,80D_20C,S48
+Moraxellaceae,0.013071268,80D_20C,S48
+Methylophagaceae,1.853185655,80D_20C,S48
+Pseudomonadaceae,0.552194372,80D_20C,S48
+Nitrincolaceae,2.874878624,80D_20C,S48
+Porticoccaceae,0,80D_20C,S48
+Saccharospirillaceae,0.176061974,80D_20C,S48
+Colwelliaceae,0.642359444,80D_20C,S48
+Burkholderiaceae,8.517398124,80D_20C,S48
+Arcobacteraceae,47.49271744,80D_20C,S48
+Crocinitomicaceae,0.737859727,80D_20C,S48
+NS11-12 marine group,0.022141127,80D_20C,S48
+Flavobacteriaceae,14.47469509,80D_20C,S48
+JGI 0000069-P22 order,8.853249677,80D_20C,S48
+Other,0.939797472,80D_20C,S48
+Mycobacteriaceae,0.033611831,80D_20C,S49
+Sporichthyaceae,0.246486763,80D_20C,S49
+Caulobacteraceae,0.050951268,80D_20C,S49
+Rhodobacteraceae,3.082685105,80D_20C,S49
+SAR11_Clade III,0.374798596,80D_20C,S49
+Bacteriovoracaceae,2.235453546,80D_20C,S49
+Moraxellaceae,0.068023944,80D_20C,S49
+Methylophagaceae,9.386504049,80D_20C,S49
+Pseudomonadaceae,0.32491437,80D_20C,S49
+Nitrincolaceae,3.182987078,80D_20C,S49
+Porticoccaceae,0.526051837,80D_20C,S49
+Saccharospirillaceae,0.528719443,80D_20C,S49
+Colwelliaceae,1.443174664,80D_20C,S49
+Burkholderiaceae,10.35111026,80D_20C,S49
+Arcobacteraceae,54.57387667,80D_20C,S49
+Crocinitomicaceae,0.120042255,80D_20C,S49
+NS11-12 marine group,0,80D_20C,S49
+Flavobacteriaceae,2.426987633,80D_20C,S49
+JGI 0000069-P22 order,9.957905183,80D_20C,S49
+Other,1.085715505,80D_20C,S49
+Mycobacteriaceae,0.033611831,80D_20C,S50
+Sporichthyaceae,0.246486763,80D_20C,S50
+Caulobacteraceae,0.050951268,80D_20C,S50
+Rhodobacteraceae,3.082685105,80D_20C,S50
+SAR11_Clade III,0.374798596,80D_20C,S50
+Bacteriovoracaceae,2.235453546,80D_20C,S50
+Moraxellaceae,0.068023944,80D_20C,S50
+Methylophagaceae,9.386504049,80D_20C,S50
+Pseudomonadaceae,0.32491437,80D_20C,S50
+Nitrincolaceae,3.182987078,80D_20C,S50
+Porticoccaceae,0.526051837,80D_20C,S50
+Saccharospirillaceae,0.528719443,80D_20C,S50
+Colwelliaceae,1.443174664,80D_20C,S50
+Burkholderiaceae,10.35111026,80D_20C,S50
+Arcobacteraceae,54.57387667,80D_20C,S50
+Crocinitomicaceae,0.120042255,80D_20C,S50
+NS11-12 marine group,0,80D_20C,S50
+Flavobacteriaceae,2.426987633,80D_20C,S50
+JGI 0000069-P22 order,9.957905183,80D_20C,S50
+Other,1.156407056,80D_20C,S50
+Mycobacteriaceae,0.152853805,50D_50C,S51
+Sporichthyaceae,0.162190424,50D_50C,S51
+Caulobacteraceae,0.138715495,50D_50C,S51
+Rhodobacteraceae,4.732599208,50D_50C,S51
+SAR11_Clade III,0.093632959,50D_50C,S51
+Bacteriovoracaceae,1.060906773,50D_50C,S51
+Moraxellaceae,0.045882817,50D_50C,S51
+Methylophagaceae,2.857805948,50D_50C,S51
+Pseudomonadaceae,0.518582541,50D_50C,S51
+Nitrincolaceae,2.802052989,50D_50C,S51
+Porticoccaceae,0.017872958,50D_50C,S51
+Saccharospirillaceae,0.179263101,50D_50C,S51
+Colwelliaceae,1.616835793,50D_50C,S51
+Burkholderiaceae,4.885186252,50D_50C,S51
+Arcobacteraceae,73.82892111,50D_50C,S51
+Crocinitomicaceae,0.104303381,50D_50C,S51
+NS11-12 marine group,0.027209578,50D_50C,S51
+Flavobacteriaceae,0.340386483,50D_50C,S51
+JGI 0000069-P22 order,5.548886541,50D_50C,S51
+Other,0.885911842,50D_50C,S51
+Mycobacteriaceae,0.068023944,50D_50C,S52
+Sporichthyaceae,0.050150986,50D_50C,S52
+Caulobacteraceae,0.162990706,50D_50C,S52
+Rhodobacteraceae,4.377807655,50D_50C,S52
+SAR11_Clade III,0.036012676,50D_50C,S52
+Bacteriovoracaceae,1.03156311,50D_50C,S52
+Moraxellaceae,0.026142536,50D_50C,S52
+Methylophagaceae,0.991282265,50D_50C,S52
+Pseudomonadaceae,0.912587898,50D_50C,S52
+Nitrincolaceae,12.82798212,50D_50C,S52
+Porticoccaceae,0.559663668,50D_50C,S52
+Saccharospirillaceae,0.144050706,50D_50C,S52
+Colwelliaceae,0.632489303,50D_50C,S52
+Burkholderiaceae,10.63254266,50D_50C,S52
+Arcobacteraceae,58.4776508,50D_50C,S52
+Crocinitomicaceae,0.071491832,50D_50C,S52
+NS11-12 marine group,0.050150986,50D_50C,S52
+Flavobacteriaceae,0.279831834,50D_50C,S52
+JGI 0000069-P22 order,7.764333045,50D_50C,S52
+Other,0.903251275,50D_50C,S52
+Mycobacteriaceae,0.137648452,50D_50C,S53
+Sporichthyaceae,0.171793805,50D_50C,S53
+Caulobacteraceae,0.315044229,50D_50C,S53
+Rhodobacteraceae,5.026035831,50D_50C,S53
+SAR11_Clade III,0.107504508,50D_50C,S53
+Bacteriovoracaceae,2.370434393,50D_50C,S53
+Moraxellaceae,0.182997749,50D_50C,S53
+Methylophagaceae,3.363317221,50D_50C,S53
+Pseudomonadaceae,1.760619738,50D_50C,S53
+Nitrincolaceae,1.967092417,50D_50C,S53
+Porticoccaceae,0.145117748,50D_50C,S53
+Saccharospirillaceae,0.120842537,50D_50C,S53
+Colwelliaceae,0.264893242,50D_50C,S53
+Burkholderiaceae,5.344814708,50D_50C,S53
+Arcobacteraceae,61.19700801,50D_50C,S53
+Crocinitomicaceae,0.04694986,50D_50C,S53
+NS11-12 marine group,0.058153803,50D_50C,S53
+Flavobacteriaceae,5.893541193,50D_50C,S53
+JGI 0000069-P22 order,10.33830575,50D_50C,S53
+Other,1.187884803,50D_50C,S53
+Mycobacteriaceae,0.201137467,50D_50C,S54
+Sporichthyaceae,0.613015782,50D_50C,S54
+Caulobacteraceae,0.477234653,50D_50C,S54
+Rhodobacteraceae,5.6046395,50D_50C,S54
+SAR11_Clade III,1.05023635,50D_50C,S54
+Bacteriovoracaceae,11.21381393,50D_50C,S54
+Moraxellaceae,0,50D_50C,S54
+Methylophagaceae,4.277238921,50D_50C,S54
+Pseudomonadaceae,0.416946765,50D_50C,S54
+Nitrincolaceae,9.446258416,50D_50C,S54
+Porticoccaceae,0.248087327,50D_50C,S54
+Saccharospirillaceae,0.229947608,50D_50C,S54
+Colwelliaceae,0.963539166,50D_50C,S54
+Burkholderiaceae,20.04572276,50D_50C,S54
+Arcobacteraceae,32.07822487,50D_50C,S54
+Crocinitomicaceae,0.177129016,50D_50C,S54
+NS11-12 marine group,0,50D_50C,S54
+Flavobacteriaceae,0.436953808,50D_50C,S54
+JGI 0000069-P22 order,10.10115561,50D_50C,S54
+Other,2.418718056,50D_50C,S54
+Mycobacteriaceae,0.071491832,50D_50C,S55
+Sporichthyaceae,0.320646201,50D_50C,S55
+Caulobacteraceae,0.070158029,50D_50C,S55
+Rhodobacteraceae,2.039918051,50D_50C,S55
+SAR11_Clade III,0.271295496,50D_50C,S55
+Bacteriovoracaceae,2.738830735,50D_50C,S55
+Moraxellaceae,0.064822818,50D_50C,S55
+Methylophagaceae,6.339831621,50D_50C,S55
+Pseudomonadaceae,0.566599443,50D_50C,S55
+Nitrincolaceae,8.246636149,50D_50C,S55
+Porticoccaceae,0.043481972,50D_50C,S55
+Saccharospirillaceae,0.373464793,50D_50C,S55
+Colwelliaceae,1.077979449,50D_50C,S55
+Burkholderiaceae,5.99117556,50D_50C,S55
+Arcobacteraceae,66.30360554,50D_50C,S55
+Crocinitomicaceae,0.059487606,50D_50C,S55
+NS11-12 marine group,0.012004225,50D_50C,S55
+Flavobacteriaceae,1.343939733,50D_50C,S55
+JGI 0000069-P22 order,3.119498063,50D_50C,S55
+Other,0.945132687,50D_50C,S55
+Mycobacteriaceae,0.094433241,20D_80C,S56
+Sporichthyaceae,0.091232114,20D_80C,S56
+Caulobacteraceae,0.029610423,20D_80C,S56
+Rhodobacteraceae,1.081447336,20D_80C,S56
+SAR11_Clade III,0.239550989,20D_80C,S56
+Bacteriovoracaceae,0.399607328,20D_80C,S56
+Moraxellaceae,0.101902536,20D_80C,S56
+Methylophagaceae,0.576736345,20D_80C,S56
+Pseudomonadaceae,0.301972961,20D_80C,S56
+Nitrincolaceae,1.708067907,20D_80C,S56
+Porticoccaceae,0,20D_80C,S56
+Saccharospirillaceae,0.028009859,20D_80C,S56
+Colwelliaceae,0.363327891,20D_80C,S56
+Burkholderiaceae,2.181567912,20D_80C,S56
+Arcobacteraceae,89.05721481,20D_80C,S56
+Crocinitomicaceae,0.098434649,20D_80C,S56
+NS11-12 marine group,0,20D_80C,S56
+Flavobacteriaceae,0.092032395,20D_80C,S56
+JGI 0000069-P22 order,2.999455808,20D_80C,S56
+Other,0.555395503,20D_80C,S56
+Mycobacteriaceae,0.192334368,20D_80C,S57
+Sporichthyaceae,0.4897724,20D_80C,S57
+Caulobacteraceae,0.117107889,20D_80C,S57
+Rhodobacteraceae,5.197296115,20D_80C,S57
+SAR11_Clade III,0.460962259,20D_80C,S57
+Bacteriovoracaceae,1.19642114,20D_80C,S57
+Moraxellaceae,0.028543381,20D_80C,S57
+Methylophagaceae,0.619951556,20D_80C,S57
+Pseudomonadaceae,0.793345924,20D_80C,S57
+Nitrincolaceae,7.129176137,20D_80C,S57
+Porticoccaceae,0,20D_80C,S57
+Saccharospirillaceae,0.010136902,20D_80C,S57
+Colwelliaceae,0.80081522,20D_80C,S57
+Burkholderiaceae,8.910069678,20D_80C,S57
+Arcobacteraceae,59.80665194,20D_80C,S57
+Crocinitomicaceae,0.220077467,20D_80C,S57
+NS11-12 marine group,0.006669014,20D_80C,S57
+Flavobacteriaceae,0.296104229,20D_80C,S57
+JGI 0000069-P22 order,12.56682352,20D_80C,S57
+Other,1.15774086,20D_80C,S57
+Mycobacteriaceae,0.102169297,20D_80C,S58
+Sporichthyaceae,0.168059157,20D_80C,S58
+Caulobacteraceae,1.31886424,20D_80C,S58
+Rhodobacteraceae,6.525763736,20D_80C,S58
+SAR11_Clade III,0.152587044,20D_80C,S58
+Bacteriovoracaceae,3.501765955,20D_80C,S58
+Moraxellaceae,0.653563388,20D_80C,S58
+Methylophagaceae,2.841533553,20D_80C,S58
+Pseudomonadaceae,0.615416627,20D_80C,S58
+Nitrincolaceae,21.58679855,20D_80C,S58
+Porticoccaceae,0,20D_80C,S58
+Saccharospirillaceae,0.090698593,20D_80C,S58
+Colwelliaceae,0.25448958,20D_80C,S58
+Burkholderiaceae,9.700214475,20D_80C,S58
+Arcobacteraceae,41.68987484,20D_80C,S58
+Crocinitomicaceae,0.271295496,20D_80C,S58
+NS11-12 marine group,0.090698593,20D_80C,S58
+Flavobacteriaceae,2.025779741,20D_80C,S58
+JGI 0000069-P22 order,6.780786837,20D_80C,S58
+Other,1.6296403,20D_80C,S58
+Mycobacteriaceae,0.086163663,20D_80C,S59
+Sporichthyaceae,0.033345071,20D_80C,S59
+Caulobacteraceae,0.064822818,20D_80C,S59
+Rhodobacteraceae,6.56551106,20D_80C,S59
+SAR11_Clade III,0.050951268,20D_80C,S59
+Bacteriovoracaceae,0.744528741,20D_80C,S59
+Moraxellaceae,0.024808733,20D_80C,S59
+Methylophagaceae,2.036716924,20D_80C,S59
+Pseudomonadaceae,0.189400002,20D_80C,S59
+Nitrincolaceae,5.734551896,20D_80C,S59
+Porticoccaceae,0.214742256,20D_80C,S59
+Saccharospirillaceae,0.137381692,20D_80C,S59
+Colwelliaceae,0.272362538,20D_80C,S59
+Burkholderiaceae,3.566588773,20D_80C,S59
+Arcobacteraceae,58.18928263,20D_80C,S59
+Crocinitomicaceae,0.053085353,20D_80C,S59
+NS11-12 marine group,2.226917208,20D_80C,S59
+Flavobacteriaceae,5.122069635,20D_80C,S59
+JGI 0000069-P22 order,14.05214636,20D_80C,S59
+Other,0.634623389,20D_80C,S59
+Mycobacteriaceae,0.121909579,20D_80C,S60
+Sporichthyaceae,0.093099438,20D_80C,S60
+Caulobacteraceae,0.410544512,20D_80C,S60
+Rhodobacteraceae,3.400930461,20D_80C,S60
+SAR11_Clade III,0.059220846,20D_80C,S60
+Bacteriovoracaceae,1.465315791,20D_80C,S60
+Moraxellaceae,0.144317466,20D_80C,S60
+Methylophagaceae,4.171334977,20D_80C,S60
+Pseudomonadaceae,0.233415496,20D_80C,S60
+Nitrincolaceae,4.637899207,20D_80C,S60
+Porticoccaceae,0.020273803,20D_80C,S60
+Saccharospirillaceae,0.204605354,20D_80C,S60
+Colwelliaceae,0.252355496,20D_80C,S60
+Burkholderiaceae,5.904211616,20D_80C,S60
+Arcobacteraceae,69.10672557,20D_80C,S60
+Crocinitomicaceae,0.119508734,20D_80C,S60
+NS11-12 marine group,1.157207337,20D_80C,S60
+Flavobacteriaceae,1.035564519,20D_80C,S60
+JGI 0000069-P22 order,6.486816693,20D_80C,S60
+Other,0.974743109,20D_80C,S60
+Mycobacteriaceae,0.064022536,100C,S61
+Sporichthyaceae,0.107237748,100C,S61
+Caulobacteraceae,0.067490423,100C,S61
+Rhodobacteraceae,6.911499514,100C,S61
+SAR11_Clade III,0.054419156,100C,S61
+Bacteriovoracaceae,0.291302538,100C,S61
+Moraxellaceae,0.09896817,100C,S61
+Methylophagaceae,1.844115795,100C,S61
+Pseudomonadaceae,0.260358313,100C,S61
+Nitrincolaceae,4.134255258,100C,S61
+Porticoccaceae,0.171260284,100C,S61
+Saccharospirillaceae,0.150986481,100C,S61
+Colwelliaceae,0.214742256,100C,S61
+Burkholderiaceae,4.947074704,100C,S61
+Arcobacteraceae,65.71433144,100C,S61
+Crocinitomicaceae,0.04694986,100C,S61
+NS11-12 marine group,1.376751283,100C,S61
+Flavobacteriaceae,4.59228315,100C,S61
+JGI 0000069-P22 order,8.339735587,100C,S61
+Other,0.612215501,100C,S61
+Mycobacteriaceae,0.244085918,100C,S62
+Sporichthyaceae,0.626087049,100C,S62
+Caulobacteraceae,0.3483893,100C,S62
+Rhodobacteraceae,12.05917816,100C,S62
+SAR11_Clade III,0.460695498,100C,S62
+Bacteriovoracaceae,3.795469339,100C,S62
+Moraxellaceae,0.29183606,100C,S62
+Methylophagaceae,3.190456374,100C,S62
+Pseudomonadaceae,0.571934654,100C,S62
+Nitrincolaceae,7.087294728,100C,S62
+Porticoccaceae,0.11790817,100C,S62
+Saccharospirillaceae,0.583672119,100C,S62
+Colwelliaceae,0.291569299,100C,S62
+Burkholderiaceae,13.61359198,100C,S62
+Arcobacteraceae,40.6537768,100C,S62
+Crocinitomicaceae,0.217143101,100C,S62
+NS11-12 marine group,0.034945634,100C,S62
+Flavobacteriaceae,1.972694388,100C,S62
+JGI 0000069-P22 order,12.23363957,100C,S62
+Other,1.605631848,100C,S62
+Mycobacteriaceae,0.141649861,100C,S63
+Sporichthyaceae,0.15552141,100C,S63
+Caulobacteraceae,0.168059157,100C,S63
+Rhodobacteraceae,3.963795256,100C,S63
+SAR11_Clade III,0.134180565,100C,S63
+Bacteriovoracaceae,2.327485942,100C,S63
+Moraxellaceae,0.033345071,100C,S63
+Methylophagaceae,6.270740634,100C,S63
+Pseudomonadaceae,0.491906484,100C,S63
+Nitrincolaceae,3.512969899,100C,S63
+Porticoccaceae,1.245505084,100C,S63
+Saccharospirillaceae,1.015557476,100C,S63
+Colwelliaceae,0.139782537,100C,S63
+Burkholderiaceae,11.72732802,100C,S63
+Arcobacteraceae,58.28584995,100C,S63
+Crocinitomicaceae,0.077093804,100C,S63
+NS11-12 marine group,0.06615662,100C,S63
+Flavobacteriaceae,1.029429026,100C,S63
+JGI 0000069-P22 order,8.126327134,100C,S63
+Other,1.087316069,100C,S63
+Mycobacteriaceae,0.220344228,100C,S64
+Sporichthyaceae,0.24008451,100C,S64
+Caulobacteraceae,0.275830426,100C,S64
+Rhodobacteraceae,5.676398092,100C,S64
+SAR11_Clade III,0.20273803,100C,S64
+Bacteriovoracaceae,2.441659464,100C,S64
+Moraxellaceae,0.064022536,100C,S64
+Methylophagaceae,2.794316933,100C,S64
+Pseudomonadaceae,0.265960285,100C,S64
+Nitrincolaceae,7.711514453,100C,S64
+Porticoccaceae,0.619418035,100C,S64
+Saccharospirillaceae,0.459628456,100C,S64
+Colwelliaceae,0.459895216,100C,S64
+Burkholderiaceae,10.7208404,100C,S64
+Arcobacteraceae,42.54911062,100C,S64
+Crocinitomicaceae,0.069090987,100C,S64
+NS11-12 marine group,0.122976621,100C,S64
+Flavobacteriaceae,1.475719453,100C,S64
+JGI 0000069-P22 order,22.31452138,100C,S64
+Other,1.315929876,100C,S64
+Mycobacteriaceae,0.086430424,100C,S65
+Sporichthyaceae,0.144050706,100C,S65
+Caulobacteraceae,0.09896817,100C,S65
+Rhodobacteraceae,3.087753556,100C,S65
+SAR11_Clade III,0.195802256,100C,S65
+Bacteriovoracaceae,0.74426198,100C,S65
+Moraxellaceae,0.077627325,100C,S65
+Methylophagaceae,3.005591301,100C,S65
+Pseudomonadaceae,0.570334091,100C,S65
+Nitrincolaceae,5.572894992,100C,S65
+Porticoccaceae,0.186999157,100C,S65
+Saccharospirillaceae,0.347322257,100C,S65
+Colwelliaceae,0.138181973,100C,S65
+Burkholderiaceae,5.884471334,100C,S65
+Arcobacteraceae,74.26454112,100C,S65
+Crocinitomicaceae,0.031210986,100C,S65
+NS11-12 marine group,0.063755775,100C,S65
+Flavobacteriaceae,1.25297438,100C,S65
+JGI 0000069-P22 order,3.544981167,100C,S65
+Other,0.701847051,100C,S65
