@@ -46,6 +46,8 @@ library("graphics"); packageVersion("graphics") # 3.6.0
 
 The R scripts in the base folder should be run interactively (for instance with RStudio).
 
-The folder 'InputFiles' contains all data files required to run the analyses. In the repository, the input files are compressed with gzip. Before you proceed with the analyses, the files should be uncompressed.
+The folder 'R_analysis' contains scripts computing notes written for data analysis and visualization. 
 
-The folder 'R_scripts' contains all scripts and computing notes written for the analyses. 
+The folder 'InputFiles' under "R_ananlysis" contains all data files required to run the analysis and plotting. In the repository, the input files are compressed with gzip. Before you proceed with the analyses, the files should be uncompressed.
+
+
