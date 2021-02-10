@@ -21,8 +21,6 @@ The following packages (and their dependencies) are required to run the whole an
 ```
 library("vegan"); packageVersvegan") # 2.5.6
 library("phyloseq"); packageVersion("phyloseq")  # 1.30.0
-library("doParallel"); packageVersion("doParallel") # 1.0.15
-library("foreach"); packageVersion("foreach") # 1.5.0
 library("DESeq2"); packageVersion("DESeq2") # 1.26.0
 library("ggplot2"); packageVersion("ggplot2") # 3.3.2
 library("BiocManager"); packageVersion("BiocManager") # 1.30.10"
