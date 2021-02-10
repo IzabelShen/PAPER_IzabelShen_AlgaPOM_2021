@@ -903,4 +903,8 @@ theme(strip.text.x=element_text(margin=margin(0.09,0,0.09,0,"cm"))) +
 theme(plot.margin=margin(0.03,0,0.05,0.05,"cm"))
 
 
-
+###Congratulations! You've scuccessfully recreate all of the figures in the paper. Hope you have fun!
+###Feel free to contact me if you have any issues with scripts when performing data visualization!
+######################################## END #######################################################
+###For a taste of the full analysis pipeline and to recreate all of the figures in the paper, check out this public workflow:
+#####
