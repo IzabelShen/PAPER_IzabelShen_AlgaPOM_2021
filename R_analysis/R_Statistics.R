@@ -707,4 +707,9 @@ mantel(newPhyloObjectRelat, AADistance, method="pearson", permutations=999, stra
 #Function procrustes rotates a configuration to maximum similarity with another configuration.
 protest(newPhyloObjectRelat, AADistance, scale=FALSE, symmetric=T)
 
- 
+                                                                 
+###Congratulation! You've finished the statistics in the paper! 
+###Please feel free to contact me if any issues occur you run the codes here.
+#########################################End#################################
+                                                                 
+                                                         
