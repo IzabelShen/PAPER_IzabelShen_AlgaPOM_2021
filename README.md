@@ -3,7 +3,7 @@
 
 A repository for R code,  scripts from the manuscript "Quality of phytoplankton deposition structures bacterial communities at the water-sediment interface"
 
-by Dandan Izabel-Shen, Séréna Albert, Monika Winder, Hanna Farnelid, Francisco J. A. Nascimento
+by Dandan Izabel-Shen, Séréna Albert, Monika Winder, Hanna Farnelid and Francisco J. A. Nascimento
 
 
 Corresponding author: Dandan Izabel-Shen, Department of Ecology, Environment and Plant Sciences, Stockholm University; email: dand.shen@gmail.com
@@ -44,8 +44,7 @@ library("graphics"); packageVersion("graphics") # 3.6.0
 
 The R scripts in the base folder should be run interactively (for instance with RStudio).
 
-The folder 'R_analysis' contains scripts computing notes written for data analysis and visualization. 
+The folder 'R_analysis' contains scripts and computing notes written for data analysis and visualization. 
 
-The folder 'InputFiles' under "R_ananlysis" contains all data files required to run the analysis and plotting. In the repository, the input files are compressed with gzip. Before you proceed with the analyses, the files should be uncompressed.
-
+The folder 'InputFiles' under "R_ananlysis" contains all data files required to run the analysis and plotting. 
 
