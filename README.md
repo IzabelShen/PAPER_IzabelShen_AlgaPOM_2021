@@ -19,7 +19,7 @@ The FASTQ files and associated metadata are available in the European Nucleotide
 The following packages (and their dependencies) are required to run the whole analysis
 
 ```
-library("vegan"); packageVersvegan") # 2.5.6
+library("vegan"); packageVersion("vegan") # 2.5.6
 library("phyloseq"); packageVersion("phyloseq")  # 1.30.0
 library("DESeq2"); packageVersion("DESeq2") # 1.26.0
 library("ggplot2"); packageVersion("ggplot2") # 3.3.2
