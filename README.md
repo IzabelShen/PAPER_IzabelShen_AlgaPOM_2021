@@ -8,7 +8,11 @@ by Dandan Izabel-Shen, Séréna Albert, Monika Winder, Hanna Farnelid and Franci
 
 Corresponding author: Dandan Izabel-Shen, Department of Ecology, Environment and Plant Sciences, Stockholm University; email: dand.shen@gmail.com
 
-_This work is Under Review_ 
+_This work is currently In Review_ 
+
+
+If you apply the script provided in this repository, please cite: https://doi.org/10.5281/zenodo.4743185
+
 
 
 ## Data
