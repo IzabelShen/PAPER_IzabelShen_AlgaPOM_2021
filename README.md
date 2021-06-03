@@ -12,7 +12,7 @@ _This work has been accepted for publication in Molecular Ecology (In Press)_   
 
 
 
-If you apply the script provided in this repository, please cite https://doi.org/10.5281/zenodo.4743185 or this publication. 
+If you apply the script provided in this repository, please cite https://doi.org/10.5281/zenodo.4743185 or this publication of this study. 
 
 
 
