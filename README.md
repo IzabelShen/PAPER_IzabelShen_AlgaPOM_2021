@@ -8,13 +8,13 @@ by Dandan Izabel-Shen, Séréna Albert, Monika Winder, Hanna Farnelid and Franci
 
 Corresponding author: Dandan Izabel-Shen, Department of Ecology, Environment and Plant Sciences, Stockholm University; email: dand.shen@gmail.com
 
-_This work has been accepted for publication in Molecular Ecology (In Press)_      https://doi.org/10.1111/mec.15984
+_This work has been accepted for publication in Molecular Ecology (In Press)_  https://doi.org/10.1111/mec.15984
 
 
+The script and computing notes provided in this Github repository are also published in Zenodo https://doi.org/10.5281/zenodo.4743185 or this publication of this study. 
 
-If you apply the script provided in this repository, please cite https://doi.org/10.5281/zenodo.4743185 or this publication of this study. 
-
-
+## To cite this work or code
+Dandan Izabel-Shen, Séréna Albert, Monika Winder, Hanna Farnelid and Francisco J. A. Nascimento. (2021, In press). Quality of phytoplankton deposition structures bacterial communities at the water-sediment interface. Molecular Ecology. https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15984
 
 ## Data
 The FASTQ files and associated metadata are available in the European Nucleotide Archive under the accession number PRJEB39288. 
