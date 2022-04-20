@@ -251,95 +251,6 @@ theme(axis.ticks.y = element_blank())
 p7
 
 
-
-########################################################
-###########Plotting Slurries taxonomic composition
-########################################################
-
-#load libraries for this section
-library(phyloseq)
-library(ggplot2)
-library("gridExtra");packageVersion("gridExtra") #v 2.3
-
-#load Slurries phyloseq
-Slurries <-readRDS("InputFiles/Slurries.rds")
-SlurriesTaxa <-read.csv("/InputFiles/SlurriesTaxa.csv", header=T, row.names=1)
-Slurriestaxa <-rownames(SlurriesTaxa)
-Slurries1 <-prune_taxa(Slurriestaxa, Slurries)
-
-#plotting
-p11<-plot_bar(Slurries1, fill="class", title="Class level") + theme(axis.title.y=element_text(colour = 'black',size = 9, family="serif")) + 
-             theme(axis.title.x=element_text(colour = 'black', size = 12,family="serif" )) + 
-             theme(axis.text.y=element_text(colour = 'black', size = 10, family="serif")) + 
-             theme(plot.title=element_text(colour= 'black', size=12, family="serif")) + 
-             theme(axis.text.x=element_text(colour = 'black', size = 10, family="serif")) +
-             theme(legend.title=element_text(size=11, family='serif')) +  
-            theme(legend.text=element_text(size=11, family='serif', face='italic')) +
-            theme(legend.key.size=unit("0.38","cm"))
-
-
-Alpha= subset_taxa(Slurries1, class=="Alphaproteobacteria")
-p12 <-plot_bar(Alpha, "Sample", "Abundance", "family", title="Alphaproteobacteria") + theme(axis.title.y=element_text(colour = 'black',size = 9, family="serif")) + 
-             theme(axis.title.x=element_text(colour = 'black', size = 12,family="serif" )) + 
-             theme(axis.text.y=element_text(colour = 'black', size = 10, family="serif")) + 
-             theme(plot.title=element_text(colour= 'black', size=12, family="serif")) + 
-             theme(axis.text.x=element_text(colour = 'black', size = 10, family="serif")) +
-             theme(legend.title=element_text(size=11, family='serif')) +  
-            theme(legend.text=element_text(size=11, family='serif', face='italic')) +
-            theme(legend.key.size=unit("0.38","cm"))
-
-
-
-Gamma= subset_taxa(Slurries1, class=="Gammaproteobacteria")
-p13 <-plot_bar(Gamma, "Sample", "Abundance", "family", title="Gammaproteobacteria") + theme(axis.title.y=element_text(colour = 'black',size = 9, family="serif")) + 
-             theme(axis.title.x=element_text(colour = 'black', size = 12,family="serif" )) + 
-             theme(axis.text.y=element_text(colour = 'black', size = 10, family="serif")) + 
-             theme(plot.title=element_text(colour= 'black', size=12, family="serif")) + 
-             theme(axis.text.x=element_text(colour = 'black', size = 10, family="serif")) +
-             theme(legend.title=element_text(size=11, family='serif')) +  
-            theme(legend.text=element_text(size=11, family='serif', face='italic')) +
-            theme(legend.key.size=unit("0.38","cm"))
-
-
-Camy= subset_taxa(Slurries1, class=="Campylobacteria")
-p14 <-plot_bar(Camy, "Sample", "Abundance", "family", title="Campylobacteria") + theme(axis.title.y=element_text(colour = 'black',size = 9, family="serif")) + 
-             theme(axis.title.x=element_text(colour = 'black', size = 12,family="serif" )) + 
-             theme(axis.text.y=element_text(colour = 'black', size = 10, family="serif")) + 
-             theme(plot.title=element_text(colour= 'black', size=12, family="serif")) + 
-             theme(axis.text.x=element_text(colour = 'black', size = 10, family="serif")) +
-             theme(legend.title=element_text(size=11, family='serif')) +  
-            theme(legend.text=element_text(size=11, family='serif', face='italic')) +
-            theme(legend.key.size=unit("0.38","cm"))
-
-
-Graci= subset_taxa(Slurries1, class=="Gracilibacteria")
-p15 <-plot_bar(Graci, "Sample", "Abundance", "order", title="Gracilibacteria") + theme(axis.title.y=element_text(colour = 'black',size = 9, family="serif")) + 
-             theme(axis.title.x=element_text(colour = 'black', size = 12,family="serif" )) + 
-             theme(axis.text.y=element_text(colour = 'black', size = 10, family="serif")) + 
-             theme(plot.title=element_text(colour= 'black', size=12, family="serif")) + 
-             theme(axis.text.x=element_text(colour = 'black', size = 10, family="serif")) +
-             theme(legend.title=element_text(size=11, family='serif')) +  
-            theme(legend.text=element_text(size=11, family='serif', face='italic')) +
-            theme(legend.key.size=unit("0.38","cm"))
-
-
-
-Bacteroidia= subset_taxa(Slurries1, class=="Bacteroidia")
-p16 <-plot_bar(Bacteroidia, "Sample", "Abundance", "family", title="Bacteroidia") + theme(axis.title.y=element_text(colour = 'black',size = 9, family="serif")) + 
-             theme(axis.title.x=element_text(colour = 'black', size = 12,family="serif" )) + 
-             theme(axis.text.y=element_text(colour = 'black', size = 10, family="serif")) + 
-             theme(plot.title=element_text(colour= 'black', size=12, family="serif")) + 
-             theme(axis.text.x=element_text(colour = 'black', size = 10, family="serif")) +
-             theme(legend.title=element_text(size=11, family='serif')) +  
-            theme(legend.text=element_text(size=11, family='serif', face='italic')) +
-            theme(legend.key.size=unit("0.38","cm"))
-
-####put all panels together in a figure
-pdf("/Your directory/FigSlurri.pdf", width =12, height=7.5) #Change to your directory 
-grid.arrange(p11, p12, p13, p14, p15, p16, ncol=3, nrow=2)
-dev.off()
-
-
 ##################################################
 #Plotting bacterial abundance
 #################################################
@@ -469,7 +380,6 @@ theme(strip.text.x=element_text(margin=margin(0.09,0,0.09,0,"cm"))) +
 theme(plot.margin=margin(0.03,0,0.05,0.05,"cm"))
 
 
-###Congratulations! You've scuccessfully recreate all of the figures in the paper. Hope you have fun!
-###Feel free to contact me if you have any issues with scripts when performing data visualization!
+###Congratulations! You've scuccessfully recreate the figures in the paper. Hope you have fun!
 ######################################## END #######################################################
 
