@@ -117,8 +117,6 @@ theme(legend.key.size=unit("0.5","cm"))
 p1  # richness
 p2  #evenness
 
-
-
 ##########################################################
 #####Plotting between-sample (Beta) diveristy water sample
 ##########################################################
@@ -150,7 +148,7 @@ Mymeta = data.frame (Microcosms=c("Control","Control","Control", "Control",	"Con
 NMDS = data.frame (NMDS1=nmds1$points[,1], NMDS2=nmds1$points[,2], Microcosms=Mymeta$Microcosms)
 NMDS$Microcosms <-factor(NMDS$Microcosms, levels=c("Control","100D", "80D_20C", "50D_50C", "20D_80C", "100C"))
 
-###Cretae a dataset for polygon plotting
+###Cretae a dataset for community dissimilarity
 find_hull <-function(NMDS) NMDS[chull(NMDS$NMDS1,NMDS$NMDS2),]
 hulls <-ddply(NMDS, "Microcosms",find_hull) 
 
@@ -180,7 +178,6 @@ theme(legend.key.size=unit("0.5","cm"))
 p3
 
 
-
 ###########################################################################
 #####Plotting heatmaps with the relative abundance of 100 ASVs across samples
 ###########################################################################
@@ -193,7 +190,6 @@ library("dichromat"); packageVersion("dichromat") # for creating color palette
 otu100 <-read.csv("/InputFiles/otu100_noCTR.csv", header=T, row.names=1)
 #transpose the dataframe
 totu100 <-t(otu100) ## ASVs in columns, sample in row
-
 
 #pearson correlation dissimilarity matrix
 row_dist_algae <-as.dist(1-cor(t(totu100), method="pearson"))
@@ -217,7 +213,7 @@ p6
 
 
 #############################################################
-#Bubbleplot for significant ASVs at the family level ########
+#significant ASVs at the family level ########
 #############################################################
 Taxosign <-read.csv("/InputFiles/FamilySig.csv", header=T)
 
@@ -290,7 +286,6 @@ strip.text=element_text(size=9,face='bold')) +
 theme(strip.background=element_rect(size=1)) + 
 theme(panel.margin=unit(0.18,"line")) + 
 theme(strip.text.x=element_text(margin=margin(0.09,0,0.09,0,"cm")))
-
 
 #############################################################
 #Selection of Rare and abundant from the sediment-water overlap
@@ -379,7 +374,5 @@ theme(panel.margin=unit(0.28,"line")) +
 theme(strip.text.x=element_text(margin=margin(0.09,0,0.09,0,"cm"))) + 
 theme(plot.margin=margin(0.03,0,0.05,0.05,"cm"))
 
-
-###Congratulations! You've scuccessfully recreate the figures in the paper. Hope you have fun!
 ######################################## END #######################################################
 
